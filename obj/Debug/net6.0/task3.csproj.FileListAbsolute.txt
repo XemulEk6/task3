@@ -1,0 +1,15 @@
+L:\programlangsem\homework\task3\bin\Debug\net6.0\task3.exe
+L:\programlangsem\homework\task3\bin\Debug\net6.0\task3.deps.json
+L:\programlangsem\homework\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+L:\programlangsem\homework\task3\bin\Debug\net6.0\task3.dll
+L:\programlangsem\homework\task3\bin\Debug\net6.0\task3.pdb
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.dll
+L:\programlangsem\homework\task3\obj\Debug\net6.0\refint\task3.dll
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.pdb
+L:\programlangsem\homework\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+L:\programlangsem\homework\task3\obj\Debug\net6.0\ref\task3.dll
