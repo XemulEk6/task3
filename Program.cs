@@ -11,5 +11,5 @@ int Nember = Convert.ToInt32(Console.ReadLine());
             }
             else
             {
-                Console.WriteLine("Число {Nember}является: ЧЁТНЫМ");
+                Console.WriteLine($"Число {Nember}является: ЧЁТНЫМ");
             }
